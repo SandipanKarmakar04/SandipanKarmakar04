@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandipanKarmakar04
-- 👀 I’m interested in softeare development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
