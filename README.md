@@ -47,7 +47,7 @@
 
 ## 📌 Projects
 
-- 🚑 [BloodLine](https://github.com/yourusername/bloodline) – A blood donation platform built using Angular & Node.js
+- 🚑 [BloodLine](https://github.com/SandipanKarmakar04/bloodline) – A blood donation platform built using Angular & Node.js
 - 🌐 Portfolio Website – Coming soon with Angular 19 + chatbot + dark/light mode!
 
 ---
@@ -55,8 +55,8 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sandipankarmakar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandipan.sk7@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/SandipanKarmakar04)
 
 ---
 
