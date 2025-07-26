@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on: **BloodLine - A MEAN stack blood donation platform**
 - 🌱 Learning: **Advanced Angular, Spring Boot, and Low-Level Concepts**
-- 🎓 MCA Student | BCA in IT (2021)
+- 🎓 MCA Student (2026) | BCA in IT (2021)
 - 🎯 Goals: Become a highly skilled software engineer and build impactful products
 - 🎸 Hobbies: Strumming chords on guitar & singing 🎶
 
