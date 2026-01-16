@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hey 👋, I'm Sandipan</h1>
-<h3 align="center">A Passionate Full Stack Developer | MCA Student | Tech Explorer</h3>
+<h3 align="center">An Aspiring Engineer, Developer | MCA Student | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Frontend+%7C+Backend+%7C+MEAN+Stack;Love+Crafting+Clean+UIs+%26+Efficient+Code;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -11,11 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **BloodLine - A MEAN stack blood donation platform**
-- 🌱 Learning: **Advanced Angular, Spring Boot, and Low-Level Concepts**
-- 🎓 MCA Student (2026) | BCA in IT (2021)
-- 🎯 Goals: Become a highly skilled software engineer and build impactful products
-- 🎸 Hobbies: Strumming chords on guitar & singing 🎶
+- 🔭 I’m currently working on: **Several projects**
+- 🌱 Learning: **Advanced Angular, Spring Boot, Queries with Machine Learning and Artificial Intelligence Concepts**
+- 🎓 MCA Graduate (2026) | BCA Graduate (2021)
+- 🎯 Goals: Become a humble person with highly skilled software engineering knowledge and build impactful products
+- 🎸 Hobbies: Strumming chords on my guitar & singing 🎶
 
 ---
 
@@ -30,22 +30,22 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
 ![JPA](https://img.shields.io/badge/-JPA-007396?style=flat)
-![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
 ### Database & Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
@@ -62,7 +62,7 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sandipankarmakar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sandipan.sk7@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:iamsandipan04@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/SandipanKarmakar04)
 
 ---
