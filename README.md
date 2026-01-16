@@ -4,7 +4,7 @@
 <h3 align="center">An Aspiring Engineer, Developer | MCA Student | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Frontend+%7C+Backend+Engineering;Crafting+Clean+UIs+%26+Efficient+Code;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Frontend+%7C+Backend+Engineering;Crafting+UIs+%26+Efficient+Functional+Code;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
