@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Several projects**
-- 🌱 Learning: **Advanced Angular, Spring Boot, Queries with Machine Learning and Artificial Intelligence Concepts**
+- 🔭 I’m currently working on: Several projects
+- 🌱 Learning: Advanced Angular, Spring Boot, Queries with Machine Learning and Artificial Intelligence Concepts
 - 🎓 MCA Graduate (2026) | BCA Graduate (2021)
 - 🎯 Goals: Become a humble person with highly skilled software engineering knowledge and build impactful products
 - 🎸 Hobbies: Strumming chords on my guitar & singing 🎶
