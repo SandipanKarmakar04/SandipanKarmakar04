@@ -17,7 +17,7 @@
 - 🎯 Goals: Become a humble person with highly skilled software engineering knowledge and build impactful products
 - 🎸 Hobbies: Strumming chords on my guitar & singing 🎶
 
----
+
 
 ## 🛠️ Tech Stack
 
