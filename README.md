@@ -33,6 +33,13 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
+![JPA](https://img.shields.io/badge/-JPA-007396?style=flat)
+![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
+
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
