@@ -53,14 +53,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 
----
+
 
 ## 📌 Projects
 
 - 🚑 [BloodLine](https://github.com/SandipanKarmakar04/bloodline) – A blood donation platform built using Angular & Node.js
 - 🌐 Portfolio Website – Coming soon with Angular 19 + chatbot + dark/light mode!
 
----
+
 
 ## 📫 Connect with Me
 
